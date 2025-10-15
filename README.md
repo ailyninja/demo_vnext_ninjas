@@ -16,5 +16,5 @@ This is a set of demo notebooks for you to try out!
 - Unzip it
 - Upload the "PREVIEW_DEMO" folder to your Workspace
 
-Follow the steps in the video intro to create a notebook service and click "Run"!
+Follow the steps in the video intro to create a notebook service and click "Run"! 🏃🏃🏃
 
