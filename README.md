@@ -1,4 +1,4 @@
 This is a set of demo notebooks for introducing Notebooks in Workspaces (Preview)!
 
-Video Intro (Coming soon!)
-[Documentation](https://docs.snowflake.com/LIMITEDACCESS/notebooks-in-workspaces)
+- Video Intro (Coming soon!)
+- [Documentation](https://docs.snowflake.com/LIMITEDACCESS/notebooks-in-workspaces)
