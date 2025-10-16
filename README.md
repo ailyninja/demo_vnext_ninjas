@@ -1,6 +1,6 @@
 # Welcome to the ❄️ Notebooks in Workspaces Preview! 🌟
 
-- [Video Intro](https://youtu.be/mZMgXDBlStE) (Use the `demo_1_feature_highlights.ipynb` notebook to try it out yourself!)
+- [Video Intro](https://youtu.be/mZMgXDBlStE) (Use `demo_1_feature_highlights.ipynb` to try it out yourself!)
 - [Documentation](https://docs.snowflake.com/LIMITEDACCESS/notebooks-in-workspaces)
 
 Snowflake Notebook in Workspaces is a fully-managed Jupyter-powered notebook built for end-to-end DS and ML development on Snowflake data. This includes: 
